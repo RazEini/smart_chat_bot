@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-  <h1 align="right">🤖 SmartChat — Secure Hebrew Chatbot</h1>
+  <h1 align="right">🤖 SmartChat — Hebrew Chatbot</h1>
 
   <p>
     <br/>
