@@ -163,13 +163,13 @@
   <hr>
 
   <br/>
-
-  <h2>🛠️ Tech Stack</h2>
+  
+  <h2>🛠️ טכנולוגיות</h2>
   <ul>
-    <li><strong>Backend:</strong> Flask (Python)</li>
-    <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>API:</strong> OpenAI GPT-5</li>
-    <li><strong>Storage:</strong> JSON (לשמירת היסטוריית שיחות)</li>
+    <li><strong>צד שרת (Backend):</strong> Flask (Python)</li>
+    <li><strong>צד לקוח (Frontend):</strong> HTML, CSS, JavaScript</li>
+    <li><strong>ממשק API:</strong> OpenAI GPT-5</li>
+    <li><strong>אחסון:</strong> JSON (לשמירת היסטוריית שיחות)</li>
   </ul>
 
   <br/>
