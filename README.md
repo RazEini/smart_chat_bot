@@ -137,9 +137,9 @@
 
   <br/>
 
-  <h2>⚙️ התקנה / Installation</h2>
+  <h2 align="center">⚙️ התקנה / Installation</h2>
 
-  <table>
+  <table align="center">
     <tr>
       <td><strong>שלב 1:</strong> התקנת הספריות הדרושות</td>
       <td><code>pip install -r requirements.txt</code></td>
