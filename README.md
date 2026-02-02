@@ -161,8 +161,6 @@
   <br/>
 
   <hr>
-
-  <br/>
   
   <h2>🛠️ טכנולוגיות</h2>
   <ul>
@@ -172,11 +170,7 @@
     <li><strong>אחסון:</strong> JSON (לשמירת היסטוריית שיחות)</li>
   </ul>
 
-  <br/>
-
   <hr>
-
-  <br/>
 
   <h2>🔒 אבטחה</h2>
   <ul>
@@ -184,8 +178,6 @@
     <li>ודאו שהוא מופיע בקובץ <code>.gitignore</code>.</li>
     <li>אם מפתח דלף – בטלו אותו מיד דרך <strong>OpenAI Dashboard</strong> וצור חדש.</li>
   </ul>
-
-  <br/>
 
   <hr>
 
