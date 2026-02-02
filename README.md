@@ -2,7 +2,7 @@
 
   <h1 align="center">🤖 SmartChat — Hebrew Chatbot</h1>
 
-  <p>
+  <p align="center">
     פרויקט <strong>SmartChat</strong> הוא צ'אטבוט חכם בעברית, המתחבר ל־OpenAI API בצורה מאובטחת וללא חשיפת מפתחות.<br>
     המערכת כוללת Backend ב־<strong>Flask</strong> ו־Frontend אינטראקטיבי ב־<strong>HTML/JS</strong> עם ניהול שיחות, שמירה אוטומטית וטעינה מהירה.
   </p>
@@ -18,13 +18,9 @@
 
   <br/>
 
-  <hr>
+  <h2 align="center">📁 מבנה הפרויקט</h2>
 
-  <br/>
-
-  <h2>📁 מבנה הפרויקט</h2>
-
-  <table>
+  <table align="center">
     <thead>
       <tr>
         <th>קובץ/תיקייה</th>
@@ -65,7 +61,7 @@
 
   <br/>
 
-  <h2 align="right">🧠 Features</h2>
+  <h2 align="center">🧠 פיצ'רים</h2>
 
   <table>
     <thead>
