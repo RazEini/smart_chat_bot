@@ -20,7 +20,7 @@
 
   <h2 align="center">📁 מבנה הפרויקט</h2>
 
-  <table align="center">
+  <table align="center" dir="rtl">
     <thead>
       <tr>
         <th>קובץ/תיקייה</th>
@@ -63,7 +63,7 @@
 
   <h2 align="center">🧠 פיצ'רים</h2>
 
-  <table>
+  <table dir="rtl">
     <thead>
       <tr>
         <th>תחום</th>
@@ -148,7 +148,7 @@ OPENAI_API_KEY="הכניסו כאן את המפתח שלכם"
   <div dir="rtl">
   <h2 align="center">⚙️ התקנה / Installation</h2>
 
-  <table align="center" style="border-collapse: collapse; width: 90%; text-align: right;">
+  <table align="center" dir="rtl">
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd; width: 40%;"><strong>שלב 1:</strong> התקנת הספריות</td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd; direction: ltr; text-align: right;">
