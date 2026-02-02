@@ -130,9 +130,15 @@
 
   <br/>
 
-  <h2>💡 דוגמת קובץ <code>.env.example</code></h2>
-  <pre><code>OPENAI_API_KEY="הכניסו כאן את המפתח שלכם"</code></pre>
+  <h3 align="center"> 💡 דוגמת קובץ <code>.env.example</code></h3>
 
+  <div dir="rtl">
+    
+  <div dir="ltr">
+
+```env
+OPENAI_API_KEY="הכניסו כאן את המפתח שלכם"
+```
   <hr>
 
   <br/>
