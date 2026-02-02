@@ -1,14 +1,14 @@
 <div dir="rtl">
 
-  <h1 align="right">🤖 SmartChat — Hebrew Chatbot</h1>
+  <h1 align="center">🤖 SmartChat — Hebrew Chatbot</h1>
 
   <p>
-    <br/>
     פרויקט <strong>SmartChat</strong> הוא צ'אטבוט חכם בעברית, המתחבר ל־OpenAI API בצורה מאובטחת וללא חשיפת מפתחות.<br>
     המערכת כוללת Backend ב־<strong>Flask</strong> ו־Frontend אינטראקטיבי ב־<strong>HTML/JS</strong> עם ניהול שיחות, שמירה אוטומטית וטעינה מהירה.
   </p>
 
-  <p align="right">
+  <br>
+  <p align="center">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Badge">
     <img src="https://img.shields.io/badge/Flask-Backend-lightgrey" alt="Flask Badge">
     <img src="https://img.shields.io/badge/HTML%2FJS-Frontend-yellow" alt="HTML/JS Badge">
