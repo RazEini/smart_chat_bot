@@ -145,26 +145,36 @@ OPENAI_API_KEY="הכניסו כאן את המפתח שלכם"
 
   <br/>
 
+  <div dir="rtl">
   <h2 align="center">⚙️ התקנה / Installation</h2>
 
-  <table align="center">
+  <table align="center" style="border-collapse: collapse; width: 90%; text-align: right;">
     <tr>
-      <td><strong>שלב 1:</strong> התקנת הספריות הדרושות</td>
-      <td><code>pip install -r requirements.txt</code></td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; width: 40%;"><strong>שלב 1:</strong> התקנת הספריות</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; direction: ltr; text-align: right;">
+        <code>pip install -r requirements.txt</code>
+      </td>
     </tr>
     <tr>
-      <td><strong>שלב 2:</strong> יצירת קובץ .env</td>
-      <td>העתק את <code>.env.example</code> והוסף את מפתח ה־OpenAI שלך</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;"><strong>שלב 2:</strong> הגדרת קובץ הגדרות</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        העתק את <code>.env.example</code> והוסף את מפתח ה-OpenAI
+      </td>
     </tr>
     <tr>
-      <td><strong>שלב 3:</strong> הרצת השרת</td>
-      <td><code>python app.py</code></td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;"><strong>שלב 3:</strong> הרצת השרת</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; direction: ltr; text-align: right;">
+        <code>python app.py</code>
+      </td>
     </tr>
     <tr>
-      <td><strong>שלב 4:</strong> פתיחת הממשק</td>
-      <td>גלוש אל <code>http://localhost:5000</code></td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;"><strong>שלב 4:</strong> פתיחת הממשק</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        גלוש אל: <code dir="ltr">http://localhost:5000</code>
+      </td>
     </tr>
   </table>
+</div>
 
   <br/>
 
