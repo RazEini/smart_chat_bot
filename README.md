@@ -131,8 +131,8 @@
   <br/>
 
   <div align="center">
-  <h2>💡 דוגמת קובץ <code><strong>.env.example</strong></code></h2>
-  </div>
+  <h3>💡 דוגמת קובץ <code style="font-size: 0.9em;">.env.example</code></h3>
+</div>
 
   <div dir="rtl">
     
