@@ -201,6 +201,6 @@
 
   <hr>
 
-  <p><strong>👨‍💻 Raz Eini (2025)</strong></p>
+  <p align="center"><strong>👨‍💻 Raz Eini (2025)</strong></p>
 
 </div>
